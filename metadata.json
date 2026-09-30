@@ -1,0 +1,8 @@
+{
+  "name": "Agentic Task Planner & Executor",
+  "description": "An autonomous AI agent interface built to simulate LangGraph workflows for high-level goal decomposition, validation, execution, and reflection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
